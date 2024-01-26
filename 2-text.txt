@@ -1,0 +1,4 @@
+def funk(st: str):
+    st.sort()
+    print(st)
+funk(input(str("str tipida malumot kiriting")))
